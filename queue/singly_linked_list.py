@@ -24,7 +24,7 @@ class Node:
         """
         self.next_node = new_next
 
-
+# Add insert clause.
 class LinkedList:
     def __init__(self):
         self.head = None
